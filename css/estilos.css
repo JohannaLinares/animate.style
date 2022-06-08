@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+       background-color: rgb(253, 255, 255);
+       margin: 0;
+       padding: 0;
+}
+.caja{
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+    height: 65vh;
+}
+.caja1{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(168, 252, 168);
+    height: 35vh;
+}
+.caja2{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(125, 211, 125);
+    height: 35vh;
+}
+.caja3{
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+    height: 65vh;
+}
